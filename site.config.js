@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: ' Naza DG',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'https://nazadgblog.vercel.app/',
+  author: 'NazaDg',
 
   // open graph metadata (optional)
   description: 'Example site description',
